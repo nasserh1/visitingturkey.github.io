@@ -78,7 +78,15 @@ img.hor {
  margin-right: 10px;
  margin-left: 150px;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 1000px){
   [class*=col-]
   width: 100%
+}
+@media only screen and (max-width: 1000px){
+img.ae {max-width: 200px;
+        max-height: 150px;}
+}
+@media only screen and (max-width: 1000px){
+img.hor {max-width: 200px;
+        max-height: 150px;}
 }
