@@ -107,6 +107,6 @@ img.inbtw{
   width: 100%
 }
 @media only screen and (max-width: 1000px){
-img.bsea, .sah, .vfs, .pond, .topm, .inbtw{max-width: 200px;
+img.bsea, .sah, .vfs, .pond, .topm, .inbtw {max-width: 200px;
         max-height: 150px;}
 }
