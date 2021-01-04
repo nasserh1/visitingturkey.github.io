@@ -102,7 +102,7 @@ img.inbtw{
   magrin-top: 35px;
   margin-left: 75px;
 }
-@media only screen and (max width: 1000px){
+@media only screen and (max-width: 1000px){
   [class*=col-]
   width: 100%
 }
