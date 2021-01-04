@@ -107,10 +107,10 @@ img.inbtw{
   width: 100%
 }
 @media only screen and (max-width: 1000px){
-img.bsea, .sah, .vfs{max-width: 200px;
-        max-height: 150px;}
+img.bsea, .sah, .vfs{max-width: 150px;
+        max-height: 100px;}
 }
 @media only screen and (max-width: 1000px){
-img.pond, .topm, .inbtw {max-width: 200px;
-        max-height: 150px;}
+img.pond, .topm, .inbtw {max-width: 150px;
+        max-height: 100px;}
 }
