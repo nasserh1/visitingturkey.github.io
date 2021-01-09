@@ -22,12 +22,10 @@ nav ul li{
  list-style: none;
  margin: 0px 20px;
 }
-
 nav ul li a{
  text-decoration: none;
  color: #483D8B;
 }
-
 .content h1{
  text-align: center;
  font-family: "Times New Roman",Times, serif;
@@ -47,6 +45,7 @@ nav ul li a{
 }
 img.selfie {
  float: right;
+ text-align: right;
  width: 350px;
  height: 300px;
  margin-top: 35px;
@@ -78,12 +77,13 @@ legend {
 input {
   margin: 5px;
 }
-@media only screen and (max width: 1000px){
-  [class*=col-]{
+@media only screen and (max-width: 1000px){
+  [class*=col-]
   width: 100%
 }
 @media only screen and (max-width: 1000px){
-img.selfie{
-          max-width: 100px;
-          max-height: 100px;
+img.selfie {
+        max-width: 200px;
+        max-height: 150px;
+      }
 }
