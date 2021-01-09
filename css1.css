@@ -35,7 +35,6 @@ nav ul li a{
  font-weight:100;
  margin-top:20px;
  margin-bottom: 15px;
- font-size: 4vw;
  color: #008080;
 }
 .content form{
@@ -56,14 +55,13 @@ img.right {
 h2 {
  border-bottom: 1px solid;
  color: #8B008B;
- font-size: 2.5vw;
+ font-size: 37.5px;
 }
 p{
  font-family: "Times New Roman", Times,
  serif;
  color: #000000;
  font-size: 20px;
- font-size: 1.35vw;
 }
 p{
  margin: 10px;
