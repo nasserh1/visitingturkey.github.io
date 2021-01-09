@@ -55,7 +55,7 @@ img.right {
 h2 {
  border-bottom: 1px solid;
  color: #8B008B;
- font-size: 37.5px;
+ font-size: 27.5px;
 }
 p{
  font-family: "Times New Roman", Times,
@@ -68,6 +68,15 @@ p{
  margin-left: 50px;
  width: 450px;
  padding: 10px;
+}
+fieldset {
+  color: #000000;
+}
+legend {
+  padding: 5px 10px;
+}
+input {
+  margin: 5px;
 }
 @media only screen and (max width: 1000px){
   [class*=col-]{
